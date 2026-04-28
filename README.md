@@ -2,7 +2,6 @@
 
 **FeaLens** is an enterprise-grade AI fairness auditing platform designed to detect, analyze, and mitigate bias in automated decision-making systems. Built for the Google Solution Challenge, it addresses algorithmic discrimination across **Hiring, Loan Approvals, and Medical Diagnostics**.
 
-![FeaLens Dashboard UI Placeholder](https://via.placeholder.com/1200x600?text=FeaLens+Dashboard+Preview)
 
 ## 🌟 The Problem
 As AI systems increasingly govern critical life decisions (who gets a job, who gets a loan, who receives medical care), the risk of algorithmic bias scaling exponentially has never been higher. Most organizations lack the tools to transparently audit their datasets and models for unfair treatment of underrepresented or protected groups.
